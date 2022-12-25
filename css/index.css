@@ -65,7 +65,8 @@
     height: 2.9rem;
     width: 4.5rem;
     border: transparent;
-    background-color: var(--logo-color);
+    background-color: aqua;
+    /* background-color: var(--logo-color); */
   }
   
   .search-icon {
