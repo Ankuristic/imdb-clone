@@ -17,5 +17,8 @@ OMDB API
 
 ![image2](https://github.com/Ankuristic/imdb-clone/assets/63995112/009275ff-ad12-4c04-885f-47b251c5bdb2)
 
+![image3](https://github.com/Ankuristic/imdb-clone/assets/63995112/bd21848d-7b0a-46b1-bc00-784d61786694)
+
+
 
 
