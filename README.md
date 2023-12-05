@@ -13,4 +13,7 @@ JavaScript
 
 OMDB API
 
+![image1](https://github.com/Ankuristic/imdb-clone/assets/63995112/d481b10e-0e83-4ecd-9d11-58ad3885a178)
+
+
 
